@@ -32,8 +32,9 @@ I love working on projects, big or small, that make my daily life easier. Some o
 - **Other Tools**: DataWeave, Mulesoft ,Salesforce ,AWS Pipelines
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning Techniques
+- Verilog HDL
 - Cloud Computing with AWS and Azure
+- Web Technologies
 
 ## 🎨 Hobbies
 - **Sports**: Volleyball, Table Tennis, and Cricket.
